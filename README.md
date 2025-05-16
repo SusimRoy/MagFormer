@@ -1,4 +1,4 @@
-# NFormer
+# MagFormer
 
 Implementation of MagFormer: Parameter-Efficient Modular Approach for Person Re-identification
 
